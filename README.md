@@ -12,7 +12,7 @@ I am a graduate and have a master's degree in engineering from the Universidade 
 
 In my projects, I try to be very informative on my thought process, so that anyone can understand and learn from what I am doing. Feel free to make any suggestion or to give me a feedback.
 
-[1. Data Science using Python](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython) 
+[1. Data Science using Python - Repository for class notes](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython) 
 
 [2. EDA using Pandas - Insurance company](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython/blob/main/04_InsuranceCompany_InferencesUsingPandas.ipynb)
 
