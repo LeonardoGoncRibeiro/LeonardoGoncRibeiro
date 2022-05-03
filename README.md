@@ -10,7 +10,7 @@ I am a graduate and have a master's degree in engineering from the Universidade 
 
 ### Personal projects:
 
-In my projects, I try to be very informative on my thought process, so that anyone can understand and learn from what I am doing. Feel free to make any suggestion or give me a feedback.
+In my projects, I try to be very informative on my thought process, so that anyone can understand and learn from what I am doing. Feel free to make any suggestion or to give me a feedback.
 
 [1. Data Science using Python](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython) 
 
@@ -24,7 +24,7 @@ In my projects, I try to be very informative on my thought process, so that anyo
 
 [6. Web scrapping](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython/blob/main/09_WebScraping.ipynb)
 
-The rest of my projects can be found in my repository.
+The rest of my projects can be found in my repositories.
 
 ### 📫 You can reach me via my LinkedIn page:
 
