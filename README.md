@@ -16,13 +16,15 @@ In my projects, I try to be very informative on my thought process, so that anyo
 
 [2. EDA using Pandas - Insurance company](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython/blob/main/04_InsuranceCompany_InferencesUsingPandas.ipynb)
 
-[3. Data visualization - Exploring seaborn](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython/blob/main/06_DataVisualization_ExploringSeaborn.ipynb)
+[3. EDA using Pandas - ENEM](https://github.com/LeonardoGoncRibeiro/PersonalProjects/blob/main/01_ENEM_EDA.ipynb)
 
-[4. Understanding Time Series](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython/blob/main/07_TimeSeriesAnalysis.ipynb)
+[4. Data visualization - Exploring seaborn](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython/blob/main/06_DataVisualization_ExploringSeaborn.ipynb)
 
-[5. Spell checker - Studying NLP basic concepts](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython/blob/main/08_SpellChecker_NLP.ipynb)
+[5. Understanding Time Series](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython/blob/main/07_TimeSeriesAnalysis.ipynb)
 
-[6. Web scrapping](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython/blob/main/09_WebScraping.ipynb)
+[6. Spell checker - Studying NLP basic concepts](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython/blob/main/08_SpellChecker_NLP.ipynb)
+
+[7. Web scrapping](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython/blob/main/09_WebScraping.ipynb)
 
 The rest of my projects can be found in my repositories.
 
