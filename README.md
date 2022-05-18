@@ -12,19 +12,23 @@ I am a graduate and have a master's degree in engineering from the Universidade 
 
 In my projects, I try to be very informative on my thought process, so that anyone can understand and learn from what I am doing. Feel free to make any suggestion or to give me a feedback.
 
+[1. EDA using Pandas - Insurance company](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython/blob/main/04_InsuranceCompany_InferencesUsingPandas.ipynb)
+
+[2. EDA using Pandas - ENEM](https://github.com/LeonardoGoncRibeiro/PersonalProjects/blob/main/01_ENEM_EDA.ipynb)
+
+[3. Data visualization - Exploring seaborn](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython/blob/main/06_DataVisualization_ExploringSeaborn.ipynb)
+
+[4. Understanding Time Series](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython/blob/main/07_TimeSeriesAnalysis.ipynb)
+
+[5. Spell checker - Studying NLP basic concepts](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython/blob/main/08_SpellChecker_NLP.ipynb)
+
+[6. Web scrapping](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython/blob/main/09_WebScraping.ipynb)
+
+I also have some repositories dedicated to my class notes:
+
 [1. Data Science using Python - Repository for class notes](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython) 
 
-[2. EDA using Pandas - Insurance company](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython/blob/main/04_InsuranceCompany_InferencesUsingPandas.ipynb)
-
-[3. EDA using Pandas - ENEM](https://github.com/LeonardoGoncRibeiro/PersonalProjects/blob/main/01_ENEM_EDA.ipynb)
-
-[4. Data visualization - Exploring seaborn](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython/blob/main/06_DataVisualization_ExploringSeaborn.ipynb)
-
-[5. Understanding Time Series](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython/blob/main/07_TimeSeriesAnalysis.ipynb)
-
-[6. Spell checker - Studying NLP basic concepts](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython/blob/main/08_SpellChecker_NLP.ipynb)
-
-[7. Web scrapping](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython/blob/main/09_WebScraping.ipynb)
+[2. Oracle MySQL - Repository for class notes](https://github.com/LeonardoGoncRibeiro/02_OracleMySQL) 
 
 The rest of my projects can be found in my repositories.
 
