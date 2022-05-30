@@ -30,7 +30,9 @@ I also have some repositories dedicated to my class notes:
 
 [2. Oracle MySQL - Repository for class notes](https://github.com/LeonardoGoncRibeiro/02_OracleMySQL) 
 
-[3. Introduction to sci-kit learn - Class notes](https://github.com/LeonardoGoncRibeiro/Others/blob/SKLearn_Introduction/ScikitLearn_RegressionClassificationClustering.ipynb)
+[3. Statistics using Python - Repository for class notes](https://github.com/LeonardoGoncRibeiro/03_StatisticsUsingPython)
+
+[4. Introduction to sci-kit learn - Class notes](https://github.com/LeonardoGoncRibeiro/Others/blob/SKLearn_Introduction/ScikitLearn_RegressionClassificationClustering.ipynb)
 
 The rest of my projects can be found in my repositories.
 
