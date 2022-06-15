@@ -2,9 +2,9 @@
 
 ### 👋 Hi
 I am a graduate and have a master's degree in engineering from the Universidade Federal do Ceará. My research was focused on the use of Bayesian models to assist in the optimization of structures.
-- 👀 Today, i am interested in entering in field of data science. I intend to apply for a doctorate in the area soon, studying Machine Learning models.
-- I am currently looking for jobs as a data analyst or as a data scientist jr. As so, i am looking for opportunities and collaboration in projects related to data science and deep learning.
-- 🌱 I’m currently learning Python and SQL. I am putting wome of my classnotes on Github, as well as some personal projects. 
+- 👀 Today, i am interested in entering in field of Data Science. I intend to apply for a doctorate in the area soon, and currently I am studying Machine Learning models and making some personal projects for my portfolio.
+- I am currently looking for jobs as a Data Analyst or as a Data Scientist Jr. As so, i am looking for opportunities and collaboration in projects related to data science, machine learning, and deep learning.
+- 🌱 I’m currently learning Machine Learning modeling techniques and Deep Learning, especially applied to the financial market. I am putting wome of my classnotes on my repositories, and I am currently working on some bigger personal projects. 
 
 #### Programming languages I have already worked on: C++, MATLAB, Octave, Julia, Python, FORTRAN, R, SQL, and others.
 
@@ -34,7 +34,11 @@ I also have some repositories dedicated to my class notes:
 
 [4. Data Science and Visualization - Repository for class notes](https://github.com/LeonardoGoncRibeiro/04_DataScience_And_Visualization)
 
-[5. Introduction to sci-kit learn - Class notes](https://github.com/LeonardoGoncRibeiro/Others/blob/SKLearn_Introduction/ScikitLearn_RegressionClassificationClustering.ipynb)
+[5. Applied Machine Learning - Repository for class notes](https://github.com/LeonardoGoncRibeiro/05_AppliedMachineLearning)
+
+[6. Introduction to Sci-kit learn - Class notes](https://github.com/LeonardoGoncRibeiro/Others/blob/SKLearn_Introduction/ScikitLearn_RegressionClassificationClustering.ipynb)
+
+[7. Credit score - Class notes](https://github.com/LeonardoGoncRibeiro/Others/tree/main/CreditScore)
 
 The rest of my projects can be found in my repositories.
 
