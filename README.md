@@ -42,6 +42,8 @@ I also have some repositories dedicated to my class notes:
 
 The rest of my projects can be found in my repositories.
 
+All of my certificates can be found by clicking [here!](https://github.com/LeonardoGoncRibeiro/Certificates)
+
 ### 📫 You can reach me via my LinkedIn page:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardo-gon%C3%A7alves-ribeiro-619312231/)
