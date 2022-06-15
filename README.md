@@ -40,9 +40,7 @@ I also have some repositories dedicated to my class notes:
 
 [7. Credit score - Class notes](https://github.com/LeonardoGoncRibeiro/Others/tree/main/CreditScore)
 
-The rest of my projects can be found in my repositories.
-
-All of my certificates can be found by clicking [here!](https://github.com/LeonardoGoncRibeiro/Certificates)
+The rest of my projects can be found in my repositories. All of my certificates can be found by clicking [here](https://github.com/LeonardoGoncRibeiro/Certificates).
 
 ### 📫 You can reach me via my LinkedIn page:
 
