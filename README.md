@@ -30,19 +30,19 @@ In my projects, I try to be very informative on my thought process, so that anyo
 
 I also have some repositories dedicated to my class notes:
 
-[1. Data Science using Python - Repository for class notes](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython) 
+1. [Data Science using Python - Repository for class notes](https://github.com/LeonardoGoncRibeiro/01_DataScienceUsingPython) 
 
-[2. Oracle MySQL - Repository for class notes](https://github.com/LeonardoGoncRibeiro/02_OracleMySQL) 
+2. [Oracle MySQL - Repository for class notes](https://github.com/LeonardoGoncRibeiro/02_OracleMySQL) 
 
-[3. Statistics using Python - Repository for class notes](https://github.com/LeonardoGoncRibeiro/03_StatisticsUsingPython)
+3. [Statistics using Python - Repository for class notes](https://github.com/LeonardoGoncRibeiro/03_StatisticsUsingPython)
 
-[4. Data Science and Visualization - Repository for class notes](https://github.com/LeonardoGoncRibeiro/04_DataScience_And_Visualization)
+4. [Data Science and Visualization - Repository for class notes](https://github.com/LeonardoGoncRibeiro/04_DataScience_And_Visualization)
 
-[5. Applied Machine Learning - Repository for class notes](https://github.com/LeonardoGoncRibeiro/05_AppliedMachineLearning)
+5. [Applied Machine Learning - Repository for class notes](https://github.com/LeonardoGoncRibeiro/05_AppliedMachineLearning)
 
-[6. Introduction to Sci-kit learn - Class notes](https://github.com/LeonardoGoncRibeiro/Others/blob/SKLearn_Introduction/ScikitLearn_RegressionClassificationClustering.ipynb)
+6. [Introduction to Sci-kit learn - Class notes](https://github.com/LeonardoGoncRibeiro/Others/blob/SKLearn_Introduction/ScikitLearn_RegressionClassificationClustering.ipynb)
 
-[7. Credit score - Class notes](https://github.com/LeonardoGoncRibeiro/Others/tree/main/CreditScore)
+7. [Credit score - Class notes](https://github.com/LeonardoGoncRibeiro/Others/tree/main/CreditScore)
 
 The rest of my projects can be found in my repositories. All of my certificates can be found by clicking [here](https://github.com/LeonardoGoncRibeiro/Certificates).
 
