@@ -38,11 +38,13 @@ I also have some repositories dedicated to my class notes:
 
 4. [Data Science and Visualization - Repository for class notes](https://github.com/LeonardoGoncRibeiro/04_DataScience_And_Visualization)
 
-5. [Applied Machine Learning - Repository for class notes](https://github.com/LeonardoGoncRibeiro/05_AppliedMachineLearning)
+6. [Applied Machine Learning - Repository for class notes](https://github.com/LeonardoGoncRibeiro/05_AppliedMachineLearning)
 
-6. [Introduction to Sci-kit learn - Class notes](https://github.com/LeonardoGoncRibeiro/Others/blob/SKLearn_Introduction/ScikitLearn_RegressionClassificationClustering.ipynb)
+6. [Basic and Advanced Machine Learning - Repository for class notes](https://github.com/LeonardoGoncRibeiro/06_MachineLearning)
 
-7. [Credit score - Class notes](https://github.com/LeonardoGoncRibeiro/Others/tree/main/CreditScore)
+7. [Introduction to Sci-kit learn - Class notes](https://github.com/LeonardoGoncRibeiro/Others/blob/SKLearn_Introduction/ScikitLearn_RegressionClassificationClustering.ipynb)
+
+8. [Credit score - Class notes](https://github.com/LeonardoGoncRibeiro/Others/tree/main/CreditScore)
 
 The rest of my projects can be found in my repositories. All of my certificates can be found by clicking [here](https://github.com/LeonardoGoncRibeiro/Certificates).
 
